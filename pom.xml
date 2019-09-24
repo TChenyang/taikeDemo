@@ -20,6 +20,8 @@
     <modules>
         <module>nandu-util</module>
         <module>nandu-admin</module>
+        <module>nandu-common</module>
+        <module>nandu-api</module>
     </modules>
 
     <properties>
